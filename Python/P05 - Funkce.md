@@ -165,4 +165,4 @@ print(pozdrav())  # Ahoj!
 print((lambda jmeno: f"Ahoj, {jmeno}!")("Anděla"))
 ```
 
-Více o `lambda` funkcích v kapitole [P09 - Lambda](P09%20-%20Lambda%20-%20anonymní%20funkce.md)
+Více o `lambda` funkcích v kapitole [P10 - Lambda](P10%20-%20Lambda%20-%20anonymní%20funkce.md)
