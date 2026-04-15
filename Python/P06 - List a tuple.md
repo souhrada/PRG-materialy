@@ -31,8 +31,7 @@ for pismeno in "Czenglish":
 
 ## `list` - List (seznam)
 
-List je seznam hodnot. Může obsahovat libovolné datové typy - například té dictionary nebo další list (seznamu v seznamu). Lze jej měnit
-s
+List je seznam hodnot. Může obsahovat libovolné datové typy - například dictionary nebo další list (seznamu v seznamu). Lze jej měnit
 
 ```python
 zmateny_den = ["Budík ⏰", True, 8.25, "😱", "🏃", "📅", "Sobota", "🤦‍♂️", "🛌💤", True]
