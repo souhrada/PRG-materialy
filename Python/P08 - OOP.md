@@ -108,7 +108,7 @@ class Pes(Zvire):
 
 `super()` platí také pro `__init__`, kde se používá nejčastěji a umožní nám rozšířit počet parametrů konstruktoru 
 
-*Pozor super().__init__() neobsahuje self*
+*Pozor 'super().__init__()' neobsahuje self*
 
 ```python
 class Kocka(Zvire):
