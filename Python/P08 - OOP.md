@@ -111,7 +111,7 @@ class Pes(Zvire):
 ```python
 class Kocka(Zvire):
     def __init__(self, jmeno)
-        super().__init__(self, jmeno, barva):
+        super().__init__(jmeno, barva):
         self.barva = barva
 
 # nyní bude naše classa přijímat další vlastnost, barvu        
