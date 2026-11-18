@@ -113,10 +113,10 @@ Obdobně jako v podmínkách, také tady nepoužíváme závorky. Jinak je logik
 Javascript
 
 ```js
-skore = praseInt(window.prompt("Jaké je tvé skóre?"))
-while (skore > 60) {
+skore = parseInt(window.prompt("Jaké je tvé skóre?"))
+while (skore < 60) {
     console.log("Snaž se víc")
-    skore = window.prompt("Jaké je tvé skóre?")
+    skore = parseInt(window.prompt("Jaké je tvé skóre?")}
 }
 ```
 
